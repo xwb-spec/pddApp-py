@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a4b61ef5-6c33-4f97-a2de-1da6bcf03f8c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="aaf56753-62a0-444f-9621-a310215eb103" />
+  <component name="ProjectId" id="2E4eOHGtkC1W06CQUPmoGbXNE3x" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.ui_untitled">
+    <configuration name="PinDuoDuo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pddApp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/PinDuoDuo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="loginTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pddApp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/loginTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pddApp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ui_untitled" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pddApp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ui_untitled.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ui_untitled" />
+        <item itemvalue="Python.loginTest" />
+        <item itemvalue="Python.PinDuoDuo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4b61ef5-6c33-4f97-a2de-1da6bcf03f8c" name="Default Changelist" comment="" />
+      <created>1661859249536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661859249536</updated>
+      <workItem from="1661859269819" duration="9033000" />
+      <workItem from="1661873286244" duration="608000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="requirements.txt" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="504" y="298" key="#com.intellij.tools.ToolEditorDialog" timestamp="1661873666472">
+      <screen x="38" y="23" width="1402" height="877" />
+    </state>
+    <state x="504" y="298" key="#com.intellij.tools.ToolEditorDialog/38.23.1402.877@38.23.1402.877" timestamp="1661873666472" />
+    <state width="1360" height="239" key="GridCell.Tab.0.bottom" timestamp="1661873806073">
+      <screen x="38" y="23" width="1402" height="877" />
+    </state>
+    <state width="1359" height="231" key="GridCell.Tab.0.bottom/35.23.1405.877@35.23.1405.877" timestamp="1661862588817" />
+    <state width="1359" height="286" key="GridCell.Tab.0.bottom/36.23.1404.877@36.23.1404.877" timestamp="1661873279733" />
+    <state width="1360" height="239" key="GridCell.Tab.0.bottom/38.23.1402.877@38.23.1402.877" timestamp="1661873806073" />
+    <state width="1360" height="239" key="GridCell.Tab.0.center" timestamp="1661873806073">
+      <screen x="38" y="23" width="1402" height="877" />
+    </state>
+    <state width="1359" height="231" key="GridCell.Tab.0.center/35.23.1405.877@35.23.1405.877" timestamp="1661862588815" />
+    <state width="1359" height="286" key="GridCell.Tab.0.center/36.23.1404.877@36.23.1404.877" timestamp="1661873279733" />
+    <state width="1360" height="239" key="GridCell.Tab.0.center/38.23.1402.877@38.23.1402.877" timestamp="1661873806073" />
+    <state width="1360" height="239" key="GridCell.Tab.0.left" timestamp="1661873806072">
+      <screen x="38" y="23" width="1402" height="877" />
+    </state>
+    <state width="1359" height="231" key="GridCell.Tab.0.left/35.23.1405.877@35.23.1405.877" timestamp="1661862588814" />
+    <state width="1359" height="286" key="GridCell.Tab.0.left/36.23.1404.877@36.23.1404.877" timestamp="1661873279732" />
+    <state width="1360" height="239" key="GridCell.Tab.0.left/38.23.1402.877@38.23.1402.877" timestamp="1661873806072" />
+    <state width="1360" height="239" key="GridCell.Tab.0.right" timestamp="1661873806073">
+      <screen x="38" y="23" width="1402" height="877" />
+    </state>
+    <state width="1359" height="231" key="GridCell.Tab.0.right/35.23.1405.877@35.23.1405.877" timestamp="1661862588816" />
+    <state width="1359" height="286" key="GridCell.Tab.0.right/36.23.1404.877@36.23.1404.877" timestamp="1661873279733" />
+    <state width="1360" height="239" key="GridCell.Tab.0.right/38.23.1402.877@38.23.1402.877" timestamp="1661873806073" />
+    <state width="1359" height="286" key="GridCell.Tab.1.bottom" timestamp="1661873279734">
+      <screen x="36" y="23" width="1404" height="877" />
+    </state>
+    <state width="1359" height="286" key="GridCell.Tab.1.bottom/36.23.1404.877@36.23.1404.877" timestamp="1661873279734" />
+    <state width="1359" height="286" key="GridCell.Tab.1.center" timestamp="1661873279734">
+      <screen x="36" y="23" width="1404" height="877" />
+    </state>
+    <state width="1359" height="286" key="GridCell.Tab.1.center/36.23.1404.877@36.23.1404.877" timestamp="1661873279734" />
+    <state width="1359" height="286" key="GridCell.Tab.1.left" timestamp="1661873279734">
+      <screen x="36" y="23" width="1404" height="877" />
+    </state>
+    <state width="1359" height="286" key="GridCell.Tab.1.left/36.23.1404.877@36.23.1404.877" timestamp="1661873279734" />
+    <state width="1359" height="286" key="GridCell.Tab.1.right" timestamp="1661873279734">
+      <screen x="36" y="23" width="1404" height="877" />
+    </state>
+    <state width="1359" height="286" key="GridCell.Tab.1.right/36.23.1404.877@36.23.1404.877" timestamp="1661873279734" />
+    <state x="240" y="100" key="SettingsEditor" timestamp="1661873667497">
+      <screen x="38" y="23" width="1402" height="877" />
+    </state>
+    <state x="240" y="100" key="SettingsEditor/38.23.1402.877@38.23.1402.877" timestamp="1661873667497" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pddApp$ui_untitled.coverage" NAME="ui_untitled Coverage Results" MODIFIED="1661873806063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pddApp$main.coverage" NAME="main Coverage Results" MODIFIED="1661862588801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pddApp$loginTest.coverage" NAME="loginTest Coverage Results" MODIFIED="1661871583346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/pddApp$PinDuoDuo.coverage" NAME="PinDuoDuo Coverage Results" MODIFIED="1661863721256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+  </component>
+</project>
