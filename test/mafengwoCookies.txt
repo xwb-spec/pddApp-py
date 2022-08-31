@@ -1,7 +1,0 @@
-#LWP-Cookies-2.0
-Set-Cookie3: _r=pinduoduo; path="/"; domain=".mafengwo.cn"; path_spec; domain_dot; expires="2023-08-30 13:23:10Z"; version=0
-Set-Cookie3: _rp="a%3A2%3A%7Bs%3A1%3A%22p%22%3Bs%3A17%3A%22mms.pinduoduo.com%22%3Bs%3A1%3A%22t%22%3Bi%3A1661865790%3B%7D"; path="/"; domain=".mafengwo.cn"; path_spec; domain_dot; expires="2023-08-30 13:23:10Z"; version=0
-Set-Cookie3: mfw_uuid="630e0e87-c4dc-9d53-e07c-d18bed8e0710"; path="/"; domain=".mafengwo.cn"; path_spec; domain_dot; expires="2023-08-30 13:20:07Z"; version=0
-Set-Cookie3: oad_n="a%3A3%3A%7Bs%3A3%3A%22oid%22%3Bi%3A1029%3Bs%3A2%3A%22dm%22%3Bs%3A15%3A%22www.mafengwo.cn%22%3Bs%3A2%3A%22ft%22%3Bs%3A19%3A%222022-08-30+21%3A20%3A07%22%3B%7D"; path="/"; domain=".mafengwo.cn"; path_spec; domain_dot; expires="2022-09-06 13:20:07Z"; version=0
-Set-Cookie3: api_uid="CiaoL2MODodhyQBiiT4lAg=="; path="/"; domain=".pinduoduo.com"; path_spec; domain_dot; expires="2037-12-31 23:55:55Z"; version=0
-Set-Cookie3: __jsluid_h=7e019ec299de8b6f6434bff469a40637; path="/"; domain="www.mafengwo.cn"; path_spec; expires="2023-08-30 13:20:07Z"; HttpOnly=None; version=0

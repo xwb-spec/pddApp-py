@@ -1,2 +1,4 @@
 requests
 PyExecjs
+PyInstaller
+uncompyle6

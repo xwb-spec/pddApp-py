@@ -2795,7 +2795,7 @@ var nt = function(t) {
 JSEncrypt = rt
 
 // 自己写一个 func 来调用加密, 摘抄加密处如何使用的即可
-function test(text){
+function encryPassword(text){
     var p = new JSEncrypt; // 上面刚刚得到的JSEncrpyt 正好new 一个赋值给 p
     // 经过测试 PublickKey 为固定值,摘抄即可
     p.setPublicKey("MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDOJ3pYE2cYqdHAnQhd0akAQ6tKiepF6ZCXnYix8HyZJapWm5aeJRmXpWPaH2l+tZzgwOELJLu0BYk6eefWpd79Zm63+cSRdRqhgSv3/Anh4XVjBBewc26KUKMq5MWnEVCyjEDZSzUvCnDiVOl+Uid9tRRr1ZrBMKsXwSgjvge0NwIDAQAB"),
@@ -2803,4 +2803,4 @@ function test(text){
     return password
 };
 
-test('密码')
+encryPassword('密码')

@@ -1,0 +1,2 @@
+#LWP-Cookies-2.0
+Set-Cookie3: api_uid="CkgXXGMOyKS1WABehhPMAg=="; path="/"; domain=".pinduoduo.com"; path_spec; domain_dot; expires="2037-12-31 23:55:55Z"; version=0
