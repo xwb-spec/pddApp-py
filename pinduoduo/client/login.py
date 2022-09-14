@@ -148,7 +148,7 @@ if __name__ == "__main__":
     # if isLogin == False:
     #     # 第二步：如果cookie已经失效了，那就尝试用帐号登录
     #     print(f"cookie失效，用户重新登录...")
-    pLogin("18617311540", "Xue3233603")
+    pLogin("", "")
     cookie = requests.utils.dict_from_cookiejar(pSession.cookies)
     print(cookie)
     # pdd = PingDuoDuoSpider()
